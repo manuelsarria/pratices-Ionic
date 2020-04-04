@@ -53,5 +53,16 @@
       "icon": "refresh-circle",
       "name": "Loading",
       "redirectTo": "/loading"
+    },
+    {
+      "icon": "phone-portrait",
+      "name": "Modal",
+      "redirectTo": "/modal"
+    }
+    ,
+    {
+      "icon": "tablet-portrait",
+      "name": "Popover",
+      "redirectTo": "/popover"
     }
   ]
