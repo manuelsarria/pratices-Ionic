@@ -68,5 +68,15 @@
       "icon": "code-working",
       "name": "Progress Bar",
       "redirectTo": "/progress-bar"
+    },
+    {
+      "icon": "arrow-down",
+      "name": "Refresh Her",
+      "redirectTo": "/refresher"
+    },
+    {
+      "icon": "search",
+      "name": "Search Bar",
+      "redirectTo": "/searchbar"
     }
   ]
